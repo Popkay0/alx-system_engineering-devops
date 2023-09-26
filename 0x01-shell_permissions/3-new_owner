@@ -1,0 +1,2 @@
+#I/bin/bash
+chown betty hello
